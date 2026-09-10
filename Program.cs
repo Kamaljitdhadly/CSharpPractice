@@ -31,4 +31,14 @@ using CSharpPractice.CSharp.Strings;
 
 //Console.WriteLine(CountVowels.Run("Hello, World!"));
 
-Console.WriteLine(string.Join(", ", FizzBuzz.Run(15)));
+//Console.WriteLine(string.Join(", ", FizzBuzz.Run(15)));
+
+
+//ListNode l1 = new ListNode(2, new ListNode(4, new ListNode(3, null)));
+//ListNode l2 = new ListNode(5, new ListNode(6, new ListNode(4, null)));
+
+//Solution S1 = new Solution();
+//S1.AddTwoNumbers(l1, l2);
+
+
+ReverseString.Run();
